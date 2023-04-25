@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuval Cohen</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🔭 Take a look at my lates project [Nicerr](https://nicerr.onrender.com/)
+- 🔭 Take a look at my latest project [Nicerr](https://nicerr.onrender.com/)
 
 - 📫 You can reach me at **yuvalcohen12234@gmail.com**
 
